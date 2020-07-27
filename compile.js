@@ -1,6 +1,6 @@
 const NodeTypes = require('./nodeTypes')
 const VoidTags = require('./voidTags')
-const inspect = require('../string/inspect')
+const { inspect } = require('string')
 
 const _compileNodeList = (nodes) => {
   let html = ''

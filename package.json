@@ -2,9 +2,9 @@
   "name": "html",
   "version": "0.3.0",
   "dependencies": {
-    "@kjou/string": "^0.3.0"
+    "string": "github:RobinBlomberg/string#release/0.3.0"
   },
   "devDependencies": {
-    "@kjou/test": "^0.3.0"
+    "test": "github:RobinBlomberg/test#release/0.3.0"
   }
 }

@@ -1,7 +1,10 @@
 {
   "name": "@kjou/html",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Robin Blomberg",
+  "scripts": {
+    "test": "node ./test"
+  },
   "dependencies": {
     "@kjou/inspect": "github:RobinBlomberg/inspect#release/0.3.1"
   },

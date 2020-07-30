@@ -1,6 +1,6 @@
 const NodeTypes = require('./nodeTypes')
 const VoidTags = require('./voidTags')
-const inspect = require('inspect')
+const inspect = require('@kjou/inspect')
 
 const _compileNodeList = (nodes) => {
   let html = ''

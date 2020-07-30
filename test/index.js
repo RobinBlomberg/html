@@ -1,5 +1,5 @@
 const createRegistry = require('../createRegistry')
-const { deepEqual, describe, it } = require('test')
+const { deepEqual, describe, it } = require('@kjou/test')
 
 const html = createRegistry()
 
